@@ -1,0 +1,14 @@
+{
+  "window.zoomLevel": -2,
+  "editor.fontFamily": "Fira Code, Consolas, 'Courier New', monospace",
+  "editor.fontLigatures": true,
+  "editor.fontSize": 13,
+  "BracketHighlighter.fontWeight": "regular",
+  "BracketHighlighter.fontStyle": "none",
+  "BracketHighlighter.letterSpacing": "none",
+  "BracketHighlighter.outline": "none",
+  "BracketHighlighter.border": "none",
+  "BracketHighlighter.backgroundColor": "#555555",
+  "BracketHighlighter.textDecoration": "none",
+  "workbench.colorTheme": "Slime"
+}

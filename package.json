@@ -10,11 +10,11 @@
   "author": "lorena",
   "license": "ISC",
   "dependencies": {
+    "cors": "^2.8.5",
     "express": "^4.17.1",
-    "mongose": "0.0.2-security",
+    "mongoose": "^5.9.3",
+    "nodemon": "^2.0.2",
     "require-dir": "^1.2.0"
   },
-  "devDependencies": {
-    "nodemon": "^2.0.2"
-  }
+  "devDependencies": {}
 }

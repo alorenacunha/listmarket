@@ -1,21 +1,17 @@
 const mongoose = require('mongoose');
 
 const ProductSchema = new mongoose.Schema({
-    title:{
+    meansure: {
         type: String,
         required: true
     },
-    description:{
-        type: String,
-        required:true
-    },
-    url:{
+    description: {
         type: String,
         required: true
     },
-    createAt:{
-        type: Date,
-        default:Date.now
+    type: {
+        type: String,
+        required: true
     }
 })
 
